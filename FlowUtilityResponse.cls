@@ -1,3 +1,5 @@
+// Use at your own risk. No warranty or liability expressed or implied.
+
 global with sharing class FlowUtilityResponse {
     @AuraEnabled @InvocableVariable (label='Org Name' description='The org name derived from the base URL.' required=false)
     global String OrgName ;
