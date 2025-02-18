@@ -1,3 +1,4 @@
+// Use at your own risk. No warranty or liability expressed or implied.
 
 global with sharing class MyUtil{ 
   // This is included in a Class called MyUtil, since in my case there are other utilities in this Class that are used within Apex.
